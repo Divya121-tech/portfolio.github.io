@@ -160,6 +160,7 @@ section{
 
 .header.active{
     left:0;
+    z-index: ;
 }
 
 .home{
